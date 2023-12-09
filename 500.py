@@ -6,4 +6,4 @@ while numbers:
     primes.append(prime)
     numbers = [n for n in numbers if n % prime != 0]
 
-print(primes)primes
+print(primes)
